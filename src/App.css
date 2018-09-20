@@ -16,3 +16,12 @@
 .App-intro {
   font-size: large;
 }
+
+.flex {
+  display: flex;
+  width: 100%;
+}
+
+.flex div {
+  width: 18%;
+}
